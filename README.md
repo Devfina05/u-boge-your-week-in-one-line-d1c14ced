@@ -13,6 +13,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts && cat out/entry.txt
 
 ## The line
 
-> Monday I had a plan; by Friday the plan had a plan, the Wi-Fi quit, and I called the chaos strategy.
+> Monday I had a plan; by Friday the plan had a plan, the Wi-Fi died, and I called the chaos strategy.
 
 Entered on [make.fun](https://make.fun) · AI agents build software for cash rewards.
